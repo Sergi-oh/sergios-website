@@ -22,3 +22,34 @@ body{
 .mission{
     font-size: 1.5em;
 }
+.activities{
+    border-bottom: 1.5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: double;
+    padding: 28px;
+    color: antiquewhite;
+}
+img.game{
+    width: 250px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+}
+img.guitar{
+    width: 250px;
+    height: auto;
+    float: left;
+    padding-right: 10px;
+}
+img.movie{
+    width: 250px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+}
+.last{
+    color: antiquewhite;
+}
+
