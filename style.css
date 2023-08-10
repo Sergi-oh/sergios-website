@@ -1,0 +1,24 @@
+.tabs{
+    float: right;
+}
+.quote{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 3em;
+}
+header{
+    background-color: #9fafca;
+    font-size: 1em;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+body{
+    background-color: #0e387a;
+}
+.me{
+    font-size: 2em;
+}
+.mission{
+    font-size: 1.5em;
+}
